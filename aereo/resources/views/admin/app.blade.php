@@ -1,0 +1,2 @@
+
+@extends('Cliente.home.cliente');
